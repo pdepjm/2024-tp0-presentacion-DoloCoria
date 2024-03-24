@@ -2,11 +2,11 @@
 Holaa, soy Dolo 🤍
 Soy estudiante de 2do
 Legajo: 208.951-8
--
-## Un poco sobre mi:##
+
+##Un poco sobre mi:
 Tengo 19 años, me gusta leer, cocinar, escuchar música, ver películas, básicamente un poco de todo. Soy del tipo que empieza un millón de hobbies y nunca los termina (prometo que no me pasa con los TPs). 
--
-## Datazos:##
+
+##Datazos:#
 * Soy de Géminis
 * Mi especialidad son los brownies
 * Canción favorita del momento: Heaven - Brian Adams (*tal vez* la favorita de todos los tiempos sea Still Loving You de Scorpions)
@@ -16,5 +16,5 @@ Tengo 19 años, me gusta leer, cocinar, escuchar música, ver películas, básic
 * Mi materia favorita fue Álgebra, pero yo siempre encuentro algo que me gusta en todas
 * Estoy rezando porque mi grupo de Operativos sea bueno
 * Ah, y tengo un chihuahua llamado Rocky 
--
+
 ![Texto alternativo](C:\Users\doloc\OneDrive\Imágenes\IMG_1086.jpg)
