@@ -6,7 +6,7 @@ Soy Estudiante de 2do
 
 Legajo: 208.951-8
 
-
+![Dolo](Dolo.jpg)
 
 ## Un poco sobre mi:
 
@@ -22,4 +22,4 @@ Tengo 19 años. Me gusta leer, cocinar, escuchar música, ver películas. Un poc
 * Estoy rezando porque mi grupo de Operativos sea bueno
 * Ah, y tengo un chihuahua llamado Rocky 
 
-![Rocky](Rocky01.png)
+![Rocky](Rocky.jpg)
