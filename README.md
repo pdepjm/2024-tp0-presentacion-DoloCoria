@@ -1,15 +1,18 @@
 # 2024-tp0-presentacion-DoloCoria
 
 Holaa, soy Dolo 🤍
+
 Soy Estudiante de 2do
-Legajo:208.951-8
+
+Legajo: 208.951-8
+
+
 
 ## Un poco sobre mi:
 
 Tengo 19 años. Me gusta leer, cocinar, escuchar música, ver películas. Un poco de todo, básicamente. Soy del tipo que empieza un millón de hobbies y nunca los termina (prometo que no me pasa con los TPs).
 
-## Datazos:
-* Soy de Géminis
+## Datas Interesante:
 * Mi especialidad son los brownies
 * Canción favorita del momento: Heaven - Brian Adams (*tal vez* la favorita de todos los tiempos sea Still Loving You de Scorpions)
 * No me gusta el Dulce de Leche (muy dulce diu)
@@ -19,4 +22,4 @@ Tengo 19 años. Me gusta leer, cocinar, escuchar música, ver películas. Un poc
 * Estoy rezando porque mi grupo de Operativos sea bueno
 * Ah, y tengo un chihuahua llamado Rocky 
 
-![Rocky](C:/Users/doloc/OneDrive/Escritorio/Rocky01.png)
+![Rocky](Rocky01.png)
