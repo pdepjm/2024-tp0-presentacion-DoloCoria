@@ -2,9 +2,11 @@
 Holaa, soy Dolo 🤍
 Soy estudiante de 2do
 Legajo: 208.951-8
+=
 
 ##Un poco sobre mi:
 Tengo 19 años, me gusta leer, cocinar, escuchar música, ver películas, básicamente un poco de todo. Soy del tipo que empieza un millón de hobbies y nunca los termina (prometo que no me pasa con los TPs). 
+=
 
 ##Datazos:#
 * Soy de Géminis
@@ -17,4 +19,4 @@ Tengo 19 años, me gusta leer, cocinar, escuchar música, ver películas, básic
 * Estoy rezando porque mi grupo de Operativos sea bueno
 * Ah, y tengo un chihuahua llamado Rocky 
 
-![Texto alternativo](C:\Users\doloc\OneDrive\Imágenes\IMG_1086.jpg)
+![Texto alternativo](C:/Users/doloc/OneDrive/Imágenes/IMG_1086.jpg)
