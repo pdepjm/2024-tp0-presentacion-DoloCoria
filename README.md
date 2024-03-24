@@ -17,4 +17,4 @@ Tengo 19 años, me gusta leer, cocinar, escuchar música, ver películas, básic
 * Estoy rezando porque mi grupo de Operativos sea bueno
 * Ah, y tengo un chihuahua llamado Rocky 
 -
-![Texto alternativo](\OneDrive\Imágenes\IMG_1086)
+![Texto alternativo](\OneDrive\Imágenes\IMG_1086.jpg)
